@@ -10,6 +10,8 @@
 
 保留捧肚大笑和笑后弯腰动作，并修正了闭眼笑的眼睛造型。
 
+![奶蛙 8 帧动作长图](pets/naiwa/showcase-strip.png)
+
 ![奶蛙动作](pets/naiwa/previews/all-states.gif)
 
 ![奶蛙环视](pets/naiwa/previews/look-loop.gif)
@@ -18,6 +20,8 @@
 
 红色鸡冠、大扇形尾羽、浅绿色眼睛。动作通过翅膀、鸡冠、尾羽与重心表达。
 
+![奶鸡 8 帧动作长图](pets/naiji/showcase-strip.png)
+
 ![奶鸡动作](pets/naiji/previews/all-states.gif)
 
 ![奶鸡环视](pets/naiji/previews/look-loop.gif)
@@ -25,6 +29,8 @@
 ### 奶鼠
 
 超大圆耳、橙色内耳、浅绿色眼睛和细长尾巴。动作通过耳朵、短手、尾巴与眼神表达。
+
+![奶鼠 8 帧动作长图](pets/naishu/showcase-strip.png)
 
 ![奶鼠动作](pets/naishu/previews/all-states.gif)
 
@@ -42,6 +48,7 @@
 每个角色目录包含：
 
 - `spritesheet.png`：可上传的最终精灵表
+- `showcase-strip.png`：GitHub 首页展示用的 8 帧横向动作长图
 - `pet.json`：角色元数据
 - `previews/`：全动作、环视、跳跃和分状态 GIF，以及 MP4 总览
 - `qa/`：结构校验、方向图、盲测和质量报告
