@@ -1,76 +1,114 @@
-# 奶系桌宠 / Milk Pets
+<div align="center">
 
-一组为 ChatGPT / Codex Work 模式制作的精细 3D 奶黄色桌宠。当前包含奶蛙、奶鸡和奶鼠。
+# 🥛 奶系桌宠 · Milk Pets
 
-所有新角色由 ImageGen 2 生成动作素材，再经过逐帧拆分、透明抠图、统一缩放、基线校准、方向盲测和最终精灵表校验。仓库不包含原始视频或带水印的参考素材。
+**为 ChatGPT / Codex 工作模式制作的精细 3D 奶黄色桌宠系列**
 
-## 角色
+奶蛙 · 奶鸡 · 奶鼠 ｜ 8 × 11 v2 精灵表 ｜ 透明背景 ｜ 鼠标环视
 
-### 奶蛙 · 原版大笑精修
+[![下载全部桌宠](https://img.shields.io/badge/下载全部桌宠-FFF1A8?style=for-the-badge&logo=github&logoColor=222)](https://github.com/YaoSong808/milk-pets/releases/latest/download/milk-pets-complete.zip)
+[![安装说明](https://img.shields.io/badge/安装说明-FFFFFF?style=for-the-badge&logo=readme&logoColor=222)](USAGE.md)
 
-保留捧肚大笑和笑后弯腰动作，并修正了闭眼笑的眼睛造型。
+</div>
 
-![奶蛙 8 帧动作长图](pets/naiwa/showcase-strip.png)
+## 三步开始使用
 
-![奶蛙动作](pets/naiwa/previews/all-states.gif)
+1. 点击角色下方的 **下载完整包**，或点击上方的 **下载全部桌宠**。
+2. 解压后找到对应角色的 `spritesheet.png`。
+3. 在 ChatGPT / Codex 工作模式中创建自定义桌宠，并上传该精灵表。
 
-![奶蛙环视](pets/naiwa/previews/look-loop.gif)
+> 完整包同时附带 `pet.json` 和简明安装说明。只想要图片时，也可以点击“仅下载精灵表”。
 
-### 奶鸡
+## 选择你的桌宠
 
-红色鸡冠、大扇形尾羽、浅绿色眼睛。动作通过翅膀、鸡冠、尾羽与重心表达。
+### 🐸 奶蛙 · 原版大笑精修
 
-![奶鸡 8 帧动作长图](pets/naiji/showcase-strip.png)
+保留捧肚大笑和笑后弯腰动作，并修正闭眼笑的眼睛造型。
 
-![奶鸡动作](pets/naiji/previews/all-states.gif)
+![奶蛙 8 帧行走动作](pets/naiwa/showcase-strip.png)
 
-![奶鸡环视](pets/naiji/previews/look-loop.gif)
+[![下载奶蛙完整包](https://img.shields.io/badge/下载完整包-奶蛙-F4C24B?style=for-the-badge)](https://github.com/YaoSong808/milk-pets/releases/latest/download/milk-frog-v2.zip)
+[![仅下载精灵表](https://img.shields.io/badge/仅下载-精灵表-FFFFFF?style=for-the-badge)](https://github.com/YaoSong808/milk-pets/raw/main/pets/naiwa/spritesheet.png)
 
-### 奶鼠
+<details>
+<summary><strong>查看完整动作与鼠标环视</strong></summary>
+<br>
 
-超大圆耳、橙色内耳、浅绿色眼睛和细长尾巴。动作通过耳朵、短手、尾巴与眼神表达。
+![奶蛙完整动作](pets/naiwa/previews/all-states.gif)
 
-![奶鼠 8 帧动作长图](pets/naishu/showcase-strip.png)
+![奶蛙鼠标环视](pets/naiwa/previews/look-loop.gif)
 
-![奶鼠动作](pets/naishu/previews/all-states.gif)
+</details>
 
-![奶鼠环视](pets/naishu/previews/look-loop.gif)
+---
+
+### 🐔 奶鸡
+
+红色鸡冠、大扇形尾羽、浅绿色眼睛；动作由翅膀、鸡冠、尾羽和重心共同表达。
+
+![奶鸡 8 帧行走动作](pets/naiji/showcase-strip.png)
+
+[![下载奶鸡完整包](https://img.shields.io/badge/下载完整包-奶鸡-F4C24B?style=for-the-badge)](https://github.com/YaoSong808/milk-pets/releases/latest/download/milk-chicken-v2.zip)
+[![仅下载精灵表](https://img.shields.io/badge/仅下载-精灵表-FFFFFF?style=for-the-badge)](https://github.com/YaoSong808/milk-pets/raw/main/pets/naiji/spritesheet.png)
+
+<details>
+<summary><strong>查看完整动作与鼠标环视</strong></summary>
+<br>
+
+![奶鸡完整动作](pets/naiji/previews/all-states.gif)
+
+![奶鸡鼠标环视](pets/naiji/previews/look-loop.gif)
+
+</details>
+
+---
+
+### 🐭 奶鼠
+
+超大圆耳、橙色内耳、浅绿色眼睛和细长尾巴；动作由耳朵、短手、尾巴和眼神共同表达。
+
+![奶鼠 8 帧行走动作](pets/naishu/showcase-strip.png)
+
+[![下载奶鼠完整包](https://img.shields.io/badge/下载完整包-奶鼠-F4C24B?style=for-the-badge)](https://github.com/YaoSong808/milk-pets/releases/latest/download/milk-mouse-v2.zip)
+[![仅下载精灵表](https://img.shields.io/badge/仅下载-精灵表-FFFFFF?style=for-the-badge)](https://github.com/YaoSong808/milk-pets/raw/main/pets/naishu/spritesheet.png)
+
+<details>
+<summary><strong>查看完整动作与鼠标环视</strong></summary>
+<br>
+
+![奶鼠完整动作](pets/naishu/previews/all-states.gif)
+
+![奶鼠鼠标环视](pets/naishu/previews/look-loop.gif)
+
+</details>
 
 ## 精灵表规格
 
-- v2：`1536 × 2288`
-- 网格：8 列 × 11 行
-- 单格：`192 × 208`
-- 标准动作：待机、向右移动、向左移动、挥手、跳跃、失败、等待、工作、检查
-- 鼠标环视：16 个顺时针方向
-- 格式：透明 PNG
+| 项目 | 规格 |
+| --- | --- |
+| 版本 | v2 |
+| 画布 | `1536 × 2288` |
+| 网格 | 8 列 × 11 行 |
+| 单格 | `192 × 208` |
+| 图像 | 透明 PNG |
+| 动作 | 待机、左右移动、挥手、跳跃、失败、等待、工作、检查 |
+| 交互 | 16 个方向的鼠标环视 |
 
-每个角色目录包含：
-
-- `spritesheet.png`：可上传的最终精灵表
-- `showcase-strip.png`：GitHub 首页展示用的 8 帧横向动作长图
-- `pet.json`：角色元数据
-- `previews/`：全动作、环视、跳跃和分状态 GIF，以及 MP4 总览
-- `qa/`：结构校验、方向图、盲测和质量报告
+每个角色目录包含最终 `spritesheet.png`、角色信息 `pet.json`、GitHub 展示长图、动作预览和质量检查结果。
 
 ## 质量检查
 
-奶鸡和奶鼠均通过：
+奶鸡和奶鼠均完成 73 个必需帧与 15 个透明空格校验、跳跃基线检查、16 向环视连续性检查、三位独立审查者随机方向盲测，以及 ChatGPT Pets 上传前结构校验。
 
-- 73 个必需帧与 15 个透明空格校验
-- 跳跃离地与落地基线检查
-- 16 向环视语义和连续性检查
-- 三位独立审查者的随机 A/B 方向盲测
-- ChatGPT Pets 上传前结构校验
-
-## 重新导出预览
+## 开发者：重新导出预览
 
 需要 Python 3 和 Pillow：
 
 ```bash
 python tools/render_previews.py pets/naiji/spritesheet.png pets/naiji/previews
+python tools/make_showcase_strip.py pets/naiji/spritesheet.png pets/naiji/showcase-strip.png
 ```
 
-## 说明
+## 使用说明
 
-本仓库没有附带开源许可证。角色与素材的使用请遵守相关平台规则和权利要求。
+本仓库暂未附带开源许可证。下载桌宠并不自动授予素材二次分发或商业使用权。

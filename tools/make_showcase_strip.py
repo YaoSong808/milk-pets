@@ -21,7 +21,7 @@ def main() -> None:
     parser.add_argument("output")
     parser.add_argument("--row", type=int, default=1)
     parser.add_argument("--frames", type=int, default=8)
-    parser.add_argument("--background", default="#0000FF")
+    parser.add_argument("--background", default="#FFFFFF")
     args = parser.parse_args()
 
     atlas = Image.open(args.atlas).convert("RGBA")
