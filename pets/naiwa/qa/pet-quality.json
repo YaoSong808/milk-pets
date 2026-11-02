@@ -1,0 +1,64 @@
+{
+  "ok": true,
+  "atlas": "/Users/yaosong/Desktop/\u6742\u9879/\u7d20\u6750/\u5976\u86d9\u7cbe\u4fee/\u773c\u775b\u4fee\u6b63\u7248/final/spritesheet.png",
+  "encoded_bytes": 2757830,
+  "sha256": "0e2d141da1f7694bdf62eb8cb525886bd656bd0afe65292bbe10baee80f8af3d",
+  "jump": {
+    "idle_baseline": 203,
+    "jump_baselines": [
+      203,
+      203,
+      203,
+      203,
+      203
+    ],
+    "airborne_lift_pixels": 0,
+    "landing_delta_pixels": 0
+  },
+  "look_registration": {
+    "neutral_center_x": 95.5,
+    "look_centers_x": [
+      96.5,
+      95.0,
+      95.0,
+      94.5,
+      95.0,
+      94.5,
+      94.5,
+      95.5,
+      96.0,
+      94.5,
+      95.0,
+      94.5,
+      95.0,
+      95.0,
+      95.0,
+      94.5
+    ],
+    "look_widths": [
+      101,
+      100,
+      100,
+      99,
+      100,
+      99,
+      99,
+      99,
+      100,
+      101,
+      100,
+      101,
+      100,
+      100,
+      100,
+      99
+    ],
+    "maximum_center_drift_pixels": 1.0,
+    "maximum_width_ratio": 1.02020202020202
+  },
+  "errors": [],
+  "warnings": [
+    "157.5->180 diff is a local outlier (3000 pixels vs neighbor average 1136)",
+    "337.5->000 diff is a local outlier (2400 pixels vs neighbor average 1034)"
+  ]
+}

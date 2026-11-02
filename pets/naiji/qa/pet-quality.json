@@ -1,0 +1,67 @@
+{
+  "ok": true,
+  "atlas": "/Users/yaosong/Desktop/\u6742\u9879/\u7d20\u6750/\u5976\u9e21\u684c\u5ba0/final/spritesheet.png",
+  "encoded_bytes": 2636353,
+  "sha256": "663ff342a886056e5adf646fd5829f57e662b6cc9197658bf8e813d94e00390d",
+  "jump": {
+    "idle_baseline": 201,
+    "jump_baselines": [
+      202,
+      182,
+      152,
+      183,
+      202
+    ],
+    "airborne_lift_pixels": 50,
+    "landing_delta_pixels": 1
+  },
+  "look_registration": {
+    "neutral_center_x": 96.0,
+    "look_centers_x": [
+      102.0,
+      102.0,
+      102.5,
+      102.0,
+      103.0,
+      103.0,
+      103.5,
+      103.5,
+      111.5,
+      110.0,
+      111.5,
+      110.5,
+      110.0,
+      110.0,
+      110.0,
+      112.0
+    ],
+    "look_widths": [
+      152,
+      154,
+      153,
+      154,
+      152,
+      152,
+      149,
+      149,
+      129,
+      126,
+      119,
+      115,
+      114,
+      116,
+      116,
+      120
+    ],
+    "maximum_center_drift_pixels": 16.0,
+    "maximum_width_ratio": 1.3508771929824561
+  },
+  "errors": [],
+  "warnings": [
+    "157.5 has transparent interior hole rows (y=53, y=54)",
+    "157.5->180 diff is a local outlier (5580 pixels vs neighbor average 2054)",
+    "157.5->180 center shift is high (14.0px)",
+    "337.5->000 diff is a local outlier (5984 pixels vs neighbor average 1640)",
+    "337.5->000 center shift is high (10.0px)"
+  ]
+}

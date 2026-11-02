@@ -1,0 +1,74 @@
+{
+  "ok": true,
+  "atlas": "/Users/yaosong/Desktop/\u6742\u9879/\u7d20\u6750/\u5976\u9f20\u684c\u5ba0/final/spritesheet.png",
+  "encoded_bytes": 2570808,
+  "sha256": "ca942241c817e6a27bb4b5b49b8251fe7844ec6251874548e366d4b66f5a96c3",
+  "jump": {
+    "idle_baseline": 202,
+    "jump_baselines": [
+      202,
+      183,
+      169,
+      195,
+      202
+    ],
+    "airborne_lift_pixels": 33,
+    "landing_delta_pixels": 0
+  },
+  "look_registration": {
+    "neutral_center_x": 96.0,
+    "look_centers_x": [
+      95.0,
+      95.5,
+      93.5,
+      93.5,
+      94.5,
+      96.5,
+      97.5,
+      97.5,
+      95.0,
+      95.0,
+      95.5,
+      96.5,
+      97.5,
+      96.5,
+      97.0,
+      97.5
+    ],
+    "look_widths": [
+      164,
+      163,
+      167,
+      167,
+      167,
+      161,
+      157,
+      157,
+      162,
+      160,
+      159,
+      159,
+      157,
+      157,
+      158,
+      163
+    ],
+    "maximum_center_drift_pixels": 2.5,
+    "maximum_width_ratio": 1.0636942675159236
+  },
+  "errors": [],
+  "warnings": [
+    "000 has transparent interior hole rows (y=18, y=19, y=20, y=21, +6 more)",
+    "022.5 has transparent interior hole rows (y=19, y=20, y=21, y=22, +1 more)",
+    "045 has transparent interior hole rows (y=19, y=20)",
+    "067.5 has transparent interior hole rows (y=19)",
+    "157.5 has transparent interior hole rows (y=30)",
+    "180 has transparent interior hole rows (y=24, y=25, y=26, y=27, +7 more)",
+    "202.5 has transparent interior hole rows (y=26, y=27, y=28, y=29, +3 more)",
+    "225 has transparent interior hole rows (y=28)",
+    "337.5 has transparent interior hole rows (y=37, y=38, y=39)",
+    "157.5->180 diff is a local outlier (4543 pixels vs neighbor average 2516)",
+    "337.5->000 diff is a local outlier (4966 pixels vs neighbor average 2858)",
+    "337.5->000 center shift is high (8.9px)"
+  ]
+}
