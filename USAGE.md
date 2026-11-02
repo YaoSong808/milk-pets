@@ -2,6 +2,21 @@
 
 ## 快速安装
 
+### Codex：发给你的 Agent
+
+把这段话发给能访问本地文件和 GitHub 的 Agent：
+
+```text
+帮我安装奶家生物桌宠：
+https://github.com/YaoSong808/milk-pets
+```
+
+Agent 读取仓库内的 `AGENTS.md` 后，运行 `python3 tools/install.py`，会安装三只桌宠。只装一只时可指定 `--pet naiwa`、`--pet naiji` 或 `--pet naishu`。安装脚本只使用 Python 标准库，不需要额外依赖；会校验精灵表，并拒绝覆盖不同的已有版本。
+
+安装完成后打开 Codex 的桌宠选择器并启用角色。若列表尚未刷新，可重新打开选择器或重启 Codex。
+
+### ChatGPT Work：上传导入
+
 1. 从 [GitHub Releases](https://github.com/YaoSong808/milk-pets/releases/latest) 下载想要的角色完整包。
 2. 解压下载的 ZIP 文件。
 3. 打开 ChatGPT / Codex 工作模式中的桌宠功能。

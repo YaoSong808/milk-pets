@@ -13,6 +13,15 @@
 
 ## 三步开始使用
 
+**用 Agent 安装 Codex 桌宠：**把仓库地址发给你的 Agent，并说“帮我安装奶家生物桌宠”。仓库附带 Agent 指引和安装脚本，可自动安装三只桌宠；安装后在 Codex 的桌宠选择器中启用。支持本地自定义桌宠的 Codex 环境。
+
+```text
+帮我安装奶家生物桌宠：
+https://github.com/YaoSong808/milk-pets
+```
+
+**ChatGPT Work 上传导入：**
+
 1. 点击角色下方的 **下载完整包**，或点击上方的 **下载全部桌宠**。
 2. 解压后找到对应角色的 `spritesheet.png`。
 3. 在 ChatGPT / Codex 工作模式中创建自定义桌宠，并上传该精灵表。
