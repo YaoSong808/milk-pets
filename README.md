@@ -27,6 +27,12 @@
 
 ![奶蛙 8 帧行走动作](pets/naiwa/showcase-strip.png)
 
+#### 动作一览
+
+<p align="center">
+  <img src="pets/naiwa/action-overview.png" alt="奶蛙九种动作一览" width="760">
+</p>
+
 [![下载奶蛙完整包](https://img.shields.io/badge/下载完整包-奶蛙-F4C24B?style=for-the-badge)](https://github.com/YaoSong808/milk-pets/releases/latest/download/milk-frog-v2.zip)
 [![仅下载精灵表](https://img.shields.io/badge/仅下载-精灵表-FFFFFF?style=for-the-badge)](https://github.com/YaoSong808/milk-pets/raw/main/pets/naiwa/spritesheet.png)
 
@@ -48,6 +54,12 @@
 
 ![奶鸡 8 帧行走动作](pets/naiji/showcase-strip.png)
 
+#### 动作一览
+
+<p align="center">
+  <img src="pets/naiji/action-overview.png" alt="奶鸡九种动作一览" width="760">
+</p>
+
 [![下载奶鸡完整包](https://img.shields.io/badge/下载完整包-奶鸡-F4C24B?style=for-the-badge)](https://github.com/YaoSong808/milk-pets/releases/latest/download/milk-chicken-v2.zip)
 [![仅下载精灵表](https://img.shields.io/badge/仅下载-精灵表-FFFFFF?style=for-the-badge)](https://github.com/YaoSong808/milk-pets/raw/main/pets/naiji/spritesheet.png)
 
@@ -68,6 +80,12 @@
 超大圆耳、橙色内耳、浅绿色眼睛和细长尾巴；动作由耳朵、短手、尾巴和眼神共同表达。
 
 ![奶鼠 8 帧行走动作](pets/naishu/showcase-strip.png)
+
+#### 动作一览
+
+<p align="center">
+  <img src="pets/naishu/action-overview.png" alt="奶鼠九种动作一览" width="760">
+</p>
 
 [![下载奶鼠完整包](https://img.shields.io/badge/下载完整包-奶鼠-F4C24B?style=for-the-badge)](https://github.com/YaoSong808/milk-pets/releases/latest/download/milk-mouse-v2.zip)
 [![仅下载精灵表](https://img.shields.io/badge/仅下载-精灵表-FFFFFF?style=for-the-badge)](https://github.com/YaoSong808/milk-pets/raw/main/pets/naishu/spritesheet.png)
@@ -107,6 +125,7 @@
 ```bash
 python tools/render_previews.py pets/naiji/spritesheet.png pets/naiji/previews
 python tools/make_showcase_strip.py pets/naiji/spritesheet.png pets/naiji/showcase-strip.png
+python tools/make_action_overview.py pets/naiji/spritesheet.png pets/naiji/action-overview.png
 ```
 
 ## 使用说明
